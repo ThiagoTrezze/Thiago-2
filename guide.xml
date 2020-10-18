@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="National Geographic FHD[H265]">
+    <display-name lang="pt">National Geographic FHD[H265]</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Fox Sports FHD[H265]">
+    <display-name lang="pt">Fox Sports FHD[H265]</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GloboNews FHD[H265]">
+    <display-name lang="pt">GloboNews FHD[H265]</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+</tv>
